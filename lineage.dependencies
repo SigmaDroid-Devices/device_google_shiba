@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "device_google_shusky",
+    "target_path": "device/google/shusky",
+    "remote": "sigma-devices",
+    "branch": "sigma-14.3"
+  },
+  {
+    "repository": "vendor_google_shiba",
+    "target_path": "vendor/google/shiba",
+    "remote": "sigma-devices",
+    "branch": "sigma-14.3"
+  }
+]
